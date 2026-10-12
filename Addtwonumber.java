@@ -5,8 +5,8 @@ public class Addtwonumber {
         System.out.println("Enter the a value:");
         int a=cha.nextInt();
         System.out.println("Enter the b value:");
-        int d=cha.nextInt();
-        int c=a+d;
+        int b=cha.nextInt();
+        int c=a+b;
         System.out.println("a and b sum is:"+c);
     }
 }
