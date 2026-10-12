@@ -19,6 +19,7 @@ public class Armstrong {
 
         if(sum == original) {
             System.out.println(original + " is an Armstrong number");
+                        System.out.println( " is an Arm number");
         } else {
             System.out.println(original + " is NOT an Armstrong number");
         }
