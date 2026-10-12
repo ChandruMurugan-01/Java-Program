@@ -7,6 +7,7 @@ public class Addtwonumber {
         System.out.println("Enter the b value:");
         int b=cha.nextInt();
         int c=a+b;
+         int c=a-b;
         System.out.println("a and b sum is:"+c);
     }
 }

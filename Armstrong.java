@@ -13,6 +13,7 @@ public class Armstrong {
 
         while(num != 0) {
             int rem = num % 10;
+            int num = 30;
             sum = sum + (rem * rem * rem);  
             num = num / 10;
         }
